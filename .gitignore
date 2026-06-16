@@ -1,0 +1,9 @@
+# Ignorar archivos .csv SOLO en la raíz del proyecto
+/*.csv
+
+# Ignorar archivos .parquet SOLO en la raíz del proyecto
+/*.parquet
+
+# Ignorar carpetas de entorno virtual y caché de Python
+.venv/
+__pycache__/
