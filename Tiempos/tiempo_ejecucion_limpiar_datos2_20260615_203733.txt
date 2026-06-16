@@ -1,0 +1,7 @@
+Tiempo de ejecución de limpiar_datos2.py
+========================================
+Fecha y hora: 2026-06-15 20:37:33
+Duración: 138.23 segundos
+Filas válidas: 17,310,999
+Filas eliminadas: 20
+Filas procesadas: 17,310,999

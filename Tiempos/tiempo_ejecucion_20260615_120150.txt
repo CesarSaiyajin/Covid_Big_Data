@@ -1,0 +1,6 @@
+Tiempo de ejecución del limpiador1.py
+=====================================
+Fecha y hora: 2026-06-15 12:01:50
+Duración: 159.32 segundos
+Registros limpios: 26
+Registros guardados: 17311043

@@ -1,0 +1,7 @@
+Tiempo de ejecución de convertir_a_parquet.py
+===========================================
+Fecha y hora: 2026-06-15 23:28:58
+Duración: 25.66 segundos
+Filas procesadas: 17,311,019
+Tamaño CSV: 1547.19 MB
+Tamaño Parquet: 236.92 MB
